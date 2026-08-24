@@ -1,0 +1,8 @@
+_atelier/
+atlas.sh
+.claude/
+.agents/
+.qwen/
+skills-lock.json
+.DS_Store
+CLAUDE.md
