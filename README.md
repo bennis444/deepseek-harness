@@ -11,6 +11,13 @@ depuis votre clavier jusqu'à la réponse du modèle.
 ## 🚀 Lancer
 
 ```sh
+./serve.sh            # sert le fichier + ouvre le navigateur
+./serve.sh 9000       # port au choix
+```
+
+Ou à la main :
+
+```sh
 python3 -m http.server 8787
 # puis ouvrir http://localhost:8787/index.html
 ```
