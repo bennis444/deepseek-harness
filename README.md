@@ -6,9 +6,16 @@ depuis votre clavier jusqu'à la réponse du modèle.
 
 > Un seul fichier HTML. Aucune installation. Tout est embarqué.
 
+## 🌐 Ouvrir la carte
+
+**→ [bennis444.github.io/deepseek-harness](https://bennis444.github.io/deepseek-harness/)** —
+la version en ligne, directement dans le navigateur.
+
 ---
 
-## 🚀 Lancer
+## 🚀 Lancer en local
+
+Si vous préférez la faire tourner depuis votre machine :
 
 ```sh
 ./serve.sh            # sert le fichier + ouvre le navigateur
