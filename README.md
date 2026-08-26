@@ -1,6 +1,6 @@
 ## 🌐 Ouvrir la carte
 
-** 👉 [bennis444.github.io/deepseek-harness](https://bennis444.github.io/deepseek-harness/)** 
+**👉 [bennis444.github.io/deepseek-harness](https://bennis444.github.io/deepseek-harness/)** 
 
 ---
 
