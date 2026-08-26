@@ -1,3 +1,9 @@
+## 🌐 Ouvrir la carte
+
+** 👉 [bennis444.github.io/deepseek-harness](https://bennis444.github.io/deepseek-harness/)** 
+
+---
+
 # DeepSeek Harness — Architecture Atlas
 
 Une **carte interactive en 3D** qui explique l'architecture du *DeepSeek Harness* —
@@ -5,11 +11,6 @@ un runtime agentique modulaire où **tout est un plugin** — et le voyage d'une
 depuis votre clavier jusqu'à la réponse du modèle.
 
 > Un seul fichier HTML. Aucune installation. Tout est embarqué.
-
-## 🌐 Ouvrir la carte
-
-**→ [bennis444.github.io/deepseek-harness](https://bennis444.github.io/deepseek-harness/)** —
-la version en ligne, directement dans le navigateur.
 
 ---
 
